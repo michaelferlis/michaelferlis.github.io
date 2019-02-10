@@ -12,8 +12,9 @@ h {
 
 body {
 	font: 16px Helvetica, Sans-Serif;
+	background-color: CFF2F1;
 }
 
 #contactandname {
-	float: right;
+	float: center;
 }
