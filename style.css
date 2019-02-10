@@ -18,3 +18,7 @@ body {
 #contactandname {
 	float: center;
 }
+
+#link {
+	float: right;
+}
