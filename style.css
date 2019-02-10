@@ -4,3 +4,8 @@ color: blue;
 h {
   color: red;
 }
+
+
+#mypicture {
+	float: right;
+}
