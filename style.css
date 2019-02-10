@@ -1,16 +1,9 @@
-p {
-color: blue;
-}
-h {
-  color: red;
-}
-
 
 #mypicture {
 	float: right;
 }
 
 body {
-	background: ("https://crescentind.com/wp-content/uploads/2018/01/blue-gradient-bg.png");
+	color: lightblue;
 }
 
