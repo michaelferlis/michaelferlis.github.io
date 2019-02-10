@@ -11,12 +11,8 @@ h {
 }
 
 body {
-	font: 16px Helvetica, Sans-Serif;
+	font: arial;
 	background-color: CFF2F1;
-}
-
-#contactandname {
-	float: center;
 }
 
 #link {
